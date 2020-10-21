@@ -1,0 +1,38 @@
+---
+componentName:  frost
+
+welcomeStyleCalamares:   false
+
+welcomeExpandingLogo:   true
+
+windowExpanding:    normal
+
+windowSize: 800px,520px
+
+strings:
+    productName:         Frost Linux
+    shortProductName:    Frost
+    version:             rolling
+    shortVersion:        rolling
+    versionedName:       Frost Linux "rolling"
+    shortVersionedName:  Frost rolling
+    bootloaderEntryName: Frost
+    productUrl:          https://frostlinux.xyz/
+    supportUrl:          https://github.com/frost-linux/frost-linux/issues
+    knownIssuesUrl:      https://calamares.io/about/
+    releaseNotesUrl:     https://calamares.io/about/
+
+welcomeExpandingLogo:   true
+
+images:
+    productLogo:         "logo.svg"
+    productIcon:         "logo.svg"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
+   sidebarTextHighlight: "#598cb8"
