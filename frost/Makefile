@@ -5,7 +5,7 @@
 	show.qml \
 	squid.png
 
-BRANDINGDIR = /usr/share/calamares/branding/artix
+BRANDINGDIR = /usr/share/calamares/branding/frost
 
 RM = rm -f
 
